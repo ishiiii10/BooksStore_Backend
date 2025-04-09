@@ -1,0 +1,32 @@
+{
+  "name": "bookstore_backend",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000B\u0000o\u0000o\u0000k\u0000s\u0000S\u0000t\u0000o\u0000r\u0000e\u0000_\u0000B\u0000a\u0000c\u0000k\u0000e\u0000n\u0000d\u0000\r\u0000 \u0000",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishiiii10/BooksStore_Backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ishiiii10/BooksStore_Backend/issues"
+  },
+  "homepage": "https://github.com/ishiiii10/BooksStore_Backend#readme",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.13.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
